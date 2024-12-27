@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AdminMart.bundle.scp.css",
-      "PackagePath": "staticwebassets\\AdminMart.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -659,6 +655,22 @@
     {
       "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\wwwroot\\plugins\\bs-stepper\\js\\bs-stepper.min.js.map",
       "PackagePath": "staticwebassets\\plugins\\bs-stepper\\js\\bs-stepper.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\wwwroot\\plugins\\calendar\\Calendar.bundle.js",
+      "PackagePath": "staticwebassets\\plugins\\calendar\\Calendar.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\wwwroot\\plugins\\calendar\\Calendar.bundle.min.js",
+      "PackagePath": "staticwebassets\\plugins\\calendar\\Calendar.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\wwwroot\\plugins\\calendar\\Calendar.js",
+      "PackagePath": "staticwebassets\\plugins\\calendar\\Calendar.js"
+    },
+    {
+      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\wwwroot\\plugins\\calendar\\Calendar.min.js",
+      "PackagePath": "staticwebassets\\plugins\\calendar\\Calendar.min.js"
     },
     {
       "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\wwwroot\\plugins\\chart.js\\Chart.bundle.js",

@@ -18,7 +18,7 @@ namespace AdminMart.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Calendar()
         {
             return View();
         }
