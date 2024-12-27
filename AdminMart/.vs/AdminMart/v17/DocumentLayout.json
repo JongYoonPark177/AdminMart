@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1532DB3A-DE71-4590-8AF1-8DC8CE65D530}|AdminMart\\AdminMart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1532DB3A-DE71-4590-8AF1-8DC8CE65D530}|AdminMart\\AdminMart.csproj|solutionrelative:adminmart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1532DB3A-DE71-4590-8AF1-8DC8CE65D530}|AdminMart\\AdminMart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1532DB3A-DE71-4590-8AF1-8DC8CE65D530}|AdminMart\\AdminMart.csproj|solutionrelative:adminmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdminMart\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AdminMart\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAqwAoBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T06:27:43.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AdminMart\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AdminMart\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJ8CAAAAAAAAAADwvzIDAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T06:22:10.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
