@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1532DB3A-DE71-4590-8AF1-8DC8CE65D530}|AdminMart\\AdminMart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\views\\home\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1532DB3A-DE71-4590-8AF1-8DC8CE65D530}|AdminMart\\AdminMart.csproj|solutionrelative:adminmart\\views\\home\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1532DB3A-DE71-4590-8AF1-8DC8CE65D530}|AdminMart\\AdminMart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1532DB3A-DE71-4590-8AF1-8DC8CE65D530}|AdminMart\\AdminMart.csproj|solutionrelative:adminmart\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1532DB3A-DE71-4590-8AF1-8DC8CE65D530}|AdminMart\\AdminMart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1532DB3A-DE71-4590-8AF1-8DC8CE65D530}|AdminMart\\AdminMart.csproj|solutionrelative:adminmart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1532DB3A-DE71-4590-8AF1-8DC8CE65D530}|AdminMart\\AdminMart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\views\\shared\\components\\leftmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1532DB3A-DE71-4590-8AF1-8DC8CE65D530}|AdminMart\\AdminMart.csproj|solutionrelative:adminmart\\views\\shared\\components\\leftmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1532DB3A-DE71-4590-8AF1-8DC8CE65D530}|AdminMart\\AdminMart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1532DB3A-DE71-4590-8AF1-8DC8CE65D530}|AdminMart\\AdminMart.csproj|solutionrelative:adminmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1532DB3A-DE71-4590-8AF1-8DC8CE65D530}|AdminMart\\AdminMart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\wwwroot\\plugins\\calendar\\calendar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{1532DB3A-DE71-4590-8AF1-8DC8CE65D530}|AdminMart\\AdminMart.csproj|solutionrelative:adminmart\\wwwroot\\plugins\\calendar\\calendar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{1532DB3A-DE71-4590-8AF1-8DC8CE65D530}|AdminMart\\AdminMart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\wwwroot\\plugins\\product\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1532DB3A-DE71-4590-8AF1-8DC8CE65D530}|AdminMart\\AdminMart.csproj|solutionrelative:adminmart\\wwwroot\\plugins\\product\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,68 +30,47 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Calendar.js",
-              "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\wwwroot\\plugins\\calendar\\Calendar.js",
-              "RelativeDocumentMoniker": "AdminMart\\wwwroot\\plugins\\calendar\\Calendar.js",
-              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\wwwroot\\plugins\\calendar\\Calendar.js",
-              "RelativeToolTip": "AdminMart\\wwwroot\\plugins\\calendar\\Calendar.js",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAuwGgAAAANAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "product.js",
+              "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\wwwroot\\plugins\\product\\product.js",
+              "RelativeDocumentMoniker": "AdminMart\\wwwroot\\plugins\\product\\product.js",
+              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\wwwroot\\plugins\\product\\product.js",
+              "RelativeToolTip": "AdminMart\\wwwroot\\plugins\\product\\product.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-27T08:40:52.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Calendar.cshtml",
-              "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\Views\\Home\\Calendar.cshtml",
-              "RelativeDocumentMoniker": "AdminMart\\Views\\Home\\Calendar.cshtml",
-              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\Views\\Home\\Calendar.cshtml",
-              "RelativeToolTip": "AdminMart\\Views\\Home\\Calendar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T08:07:05.549Z",
+              "WhenOpened": "2024-12-31T04:46:11.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AdminMart\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AdminMart\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T07:18:59.131Z",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\Views\\Shared\\Components\\LeftMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "AdminMart\\Views\\Shared\\Components\\LeftMenu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\Views\\Shared\\Components\\LeftMenu\\Default.cshtml",
+              "RelativeToolTip": "AdminMart\\Views\\Shared\\Components\\LeftMenu\\Default.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAawOMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T04:43:40.539Z",
               "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "c62f70f2-cea8-4ac3-b267-9dd1b6cbfefd",
-        "Display": 0,
-        "X": 189,
-        "Y": 194,
-        "Width": 1553,
-        "Height": 686,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\Views\\Home\\Product.cshtml",
+              "RelativeDocumentMoniker": "AdminMart\\Views\\Home\\Product.cshtml",
+              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\Views\\Home\\Product.cshtml",
+              "RelativeToolTip": "AdminMart\\Views\\Home\\Product.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T04:38:37.2Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -96,9 +79,22 @@
               "RelativeDocumentMoniker": "AdminMart\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "AdminMart\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAC4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-27T06:22:10.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AdminMart\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AdminMart\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:18:59.131Z",
               "EditorCaption": ""
             }
           ]

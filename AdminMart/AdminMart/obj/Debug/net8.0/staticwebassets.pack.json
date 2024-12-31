@@ -5809,10 +5809,6 @@
       "PackagePath": "staticwebassets\\plugins\\jsgrid\\jsgrid-theme.min.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\wwwroot\\plugins\\jsgrid\\jsgrid.css",
-      "PackagePath": "staticwebassets\\plugins\\jsgrid\\jsgrid.css"
-    },
-    {
       "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\wwwroot\\plugins\\jsgrid\\jsgrid.js",
       "PackagePath": "staticwebassets\\plugins\\jsgrid\\jsgrid.js"
     },
@@ -7155,6 +7151,22 @@
     {
       "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\wwwroot\\plugins\\popper\\umd\\popper.min.js.map",
       "PackagePath": "staticwebassets\\plugins\\popper\\umd\\popper.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\wwwroot\\plugins\\product\\product.js",
+      "PackagePath": "staticwebassets\\plugins\\product\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\wwwroot\\plugins\\product\\product.js.map",
+      "PackagePath": "staticwebassets\\plugins\\product\\product.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\wwwroot\\plugins\\product\\product.min.js",
+      "PackagePath": "staticwebassets\\plugins\\product\\product.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\wwwroot\\plugins\\product\\product.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\product\\product.min.js.map"
     },
     {
       "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\AdminMart\\AdminMart\\wwwroot\\plugins\\raphael\\Gruntfile.js",
