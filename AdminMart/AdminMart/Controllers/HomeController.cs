@@ -18,12 +18,13 @@ namespace AdminMart.Controllers
             return View();
         }
 
-        public IActionResult Calendar()
+        public IActionResult TicketList()
         {
+
             return View();
         }
 
-        public IActionResult Product()
+        public IActionResult Privacy()
         {
             return View();
         }

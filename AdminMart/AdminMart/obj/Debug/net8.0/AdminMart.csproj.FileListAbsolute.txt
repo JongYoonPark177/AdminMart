@@ -21,7 +21,9 @@ C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\AdminMart\AdminMart\obj\Debug\net8.
 C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\AdminMart\AdminMart\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AdminMart.props
 C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\AdminMart\AdminMart\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AdminMart.props
 C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\AdminMart\AdminMart\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\AdminMart\AdminMart\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\AdminMart\AdminMart\obj\Debug\net8.0\scopedcss\bundle\AdminMart.styles.css
+C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\AdminMart\AdminMart\obj\Debug\net8.0\scopedcss\projectbundle\AdminMart.bundle.scp.css
 C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\AdminMart\AdminMart\obj\Debug\net8.0\AdminMart.dll
 C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\AdminMart\AdminMart\obj\Debug\net8.0\refint\AdminMart.dll
 C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\AdminMart\AdminMart\obj\Debug\net8.0\AdminMart.pdb
