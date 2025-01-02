@@ -11,5 +11,5 @@ ASP.NET Core MVC(.NET 8.0) 쇼핑몰 관리자 페이지
   <li>서버 : IIS </li>
   <li>프레임워크 : ASP.NET Core MVC </li>
   <li>버전 : .NET 8.0 </li>
-  <li>데이터베이스 : MSSQL</li>
+  <li>데이터베이스 : MariaDB</li>
 </ul>
