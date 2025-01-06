@@ -1,6 +1,9 @@
+using System.Data;
 using System.Diagnostics;
 using Adminmart.Models;
+using Microsoft.AspNetCore.Hosting.Server;
 using Microsoft.AspNetCore.Mvc;
+using MySqlConnector;
 
 namespace Adminmart.Controllers
 {
@@ -17,13 +20,21 @@ namespace Adminmart.Controllers
         {
             return View();
         }
+
         public IActionResult TicketList()
         {
+            string status = "In Progress";
             
-            return View();
+
+            return View(TicketModel.GetList(status));
         }
 
+        public IActionResult TicketChange([FromForm]TicketModel model) 
+        {
+            model.Update();
 
+            return Redirect("/home/ticketlist");
+        }
         public IActionResult Privacy()
         {
             return View();

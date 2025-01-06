@@ -1,4 +1,15 @@
-﻿<!--Axios CDN-->
+﻿@model List<TicketModel>
+@{
+    int ticket_id = 0;
+    string title = "";
+
+    if(Model?.Count > 0)
+    {
+        ticket_id = Model[0].Ticket_id;
+        title = Model[0].Title;
+    }
+}
+<!--Axios CDN-->
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 
 <div class="row">
@@ -58,15 +69,18 @@
                             </tr>
                         </thead>
                         <tbody>
-                            <tr>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                            </tr>
+                            @foreach (var ticket in Model)
+                            {
+                                <tr>
+                                    <td>@ticket.Status</td>
+                                    <td>@ticket.Title</td>
+                                    <td>@ticket.Ticket_id</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                            }
                         </tbody>
                     </table>
                     <!--
@@ -91,12 +105,15 @@
 </div>
 
 <div>
-    <div>
-        <input id="ticket_id" type="text" value="" />
-        <input id="title" type="text" value="" />
+    <form id="form1" method="post" action="/home/ticketchange">
+        <input name="ticket_id" type="text" value="@ticket_id" />
+        <input name="title" type="text" value="@title" />
 
-        <button id="btn1" type="button" class="btn btn-sm btn-primary">변경 전송</button>
-    </div>
+        <button  type="submit" class="btn btn-sm btn-primary">변경 전송</button>
+        @* <button id="btn1" type="submit" class="btn btn-sm btn-primary">변경 전송</button> *@
+    </form>
+</div>
+<div>
 
     <div>
         <button id="btn2" type="button" class="btn btn-sm btn-primary">WebApi Test</button>
@@ -108,18 +125,18 @@
 
             /*
             //1. 순수 js
-            var xhr = new XMLHttpRequest();
-            xhr.open("post", "/home/TicketChange", true);
-            xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+            var xhr = new xmlhttprequest();
+            xhr.open("post", "/home/ticketchange", true);
+            xhr.setrequestheader("content-type", "application/x-www-form-urlencoded");
             xhr.onreadystatechange = function () {
-                if (xhr.readyState == 4) {
+                if (xhr.readystate == 4) {
                     if (xhr.status == 200) {
                         alert("저장 성공");
                         location.reload();
                     }
                 }
             }
-            xhr.send("ticket_id=" + ticket_id + "&title=" + decodeURIComponent(title));
+            xhr.send("ticket_id=" + ticket_id + "&title=" + decodeuricomponent(title));
             //1.순수 js 끝
             */
 
@@ -127,9 +144,9 @@
             console.log("시작");
             //2. jquery ajax 이용
             $.ajax({
-                type: "POST",
-                url: "/home/TicketChange",
-                dataType: "json",
+                type: "post",
+                url: "/home/ticketchange",
+                datatype: "json",
                 data: {
                     model: {
                         "ticket_id": ticket_id,
@@ -142,21 +159,22 @@
                     location.reload();
                 },
                 error: function (xhr) {
-                    alert(xhr.responseText);
+                    alert(xhr.responsetext);
                 }
             });
             console.log("끝");
             */
-
-            //3. Axios 요청
-            axios.post("/home/TicketChange", {
+           console.log(ticket_id);
+            //3. axios 요청
+            axios.post("/home/ticketchange", {
                 "ticket_id": ticket_id,
                 "title": title
+                
             }).then(function (response) {
-                alert(response.data.Title);
+                alert(response.data.title);
                 location.reload();
             }).catch(function (xhr) {
-                alert(xhr.responseText);
+                alert(xhr.responsetext);
             });
         });
 
@@ -165,7 +183,7 @@
             $.ajax({
                 type: "delete",
                 url: "https://localhost:44371/weatherforecast",
-                dataType: "json",
+                datatype: "json",
                 data: {
                 },
                 success: function (data) {
@@ -174,7 +192,7 @@
                 },
                 error: function (xhr) {
                     console.log("실패");
-                    console.log(xhr.responseJSON.message);
+                    console.log(xhr.responsejson.message);
                 }
             });
         });

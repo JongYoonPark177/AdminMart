@@ -29,3 +29,7 @@ C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\Adminmart\Adminmart\obj\Debug\net8.
 C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\Adminmart\Adminmart\obj\Debug\net8.0\Adminmart.pdb
 C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\Adminmart\Adminmart\obj\Debug\net8.0\Adminmart.genruntimeconfig.cache
 C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\Adminmart\Adminmart\obj\Debug\net8.0\ref\Adminmart.dll
+C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\Adminmart\Adminmart\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\Adminmart\Adminmart\obj\Debug\net8.0\Adminmart.csproj.AssemblyReference.cache
+C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\Adminmart\Adminmart\obj\Debug\net8.0\Adminmart.csproj.Up2Date
+C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\Adminmart\Adminmart\bin\Debug\net8.0\Dapper.dll

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "CnlNG6w0hvE=",
+  "dgSpecHash": "REaDKC7CRdU=",
   "success": true,
   "projectFilePath": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Adminmart.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\PARKJY\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
+    "C:\\Users\\PARKJY\\.nuget\\packages\\mysqlconnector\\2.0.0\\mysqlconnector.2.0.0.nupkg.sha512",
+    "C:\\Users\\PARKJY\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
