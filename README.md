@@ -21,7 +21,7 @@ ASP.NET Core MVC(.NET 8.0) 공부 페이지
   <li>단방향 암호화</li>
 </ul>
 
-<h2>기능</h2>
+<h2>🛠기능</h2>
 <ul>
   <li>회원가입</li>
   <li>로그인</li>
