@@ -14,3 +14,9 @@ ASP.NET Core MVC(.NET 8.0) 공부 페이지
   <li>Version : .NET 8.0 </li>
   <li>DataBase : MariaDB</li>
 </ul>
+
+<h2>🔐암호화</h2>
+<ul>
+  <li>SHA2512</li>
+  <li>단방향 암호화</li>
+</ul>
