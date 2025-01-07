@@ -20,3 +20,11 @@ ASP.NET Core MVC(.NET 8.0) 공부 페이지
   <li>SHA2512</li>
   <li>단방향 암호화</li>
 </ul>
+
+<h2>기능</h2>
+<ul>
+  <li>회원가입</li>
+  <li>로그인</li>
+  <li>로그아웃</li>
+  <li>티켓리스트</li>
+</ul>
