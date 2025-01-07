@@ -21,7 +21,6 @@ namespace Adminmart.Models
                                          FROM t_ticket A
                                         WHERE A.status = @status
                                         ";
-
                 return Dapper.SqlMapper.Query<TicketModel>(conn, sql, new { status = status }).ToList();
             }
         }
