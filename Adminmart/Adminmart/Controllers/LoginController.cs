@@ -1,8 +1,11 @@
 using System.Data;
 using System.Diagnostics;
+using System.Security.Claims;
 using System.Web;
 using Adminmart.Models;
 using Adminmart.Models.Login;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Hosting.Server;
 using Microsoft.AspNetCore.Mvc;
 using MySqlConnector;
@@ -21,20 +24,7 @@ namespace Adminmart.Controllers
             return Redirect("/login/login");
         }
 
-        [HttpGet]
-        public IActionResult Login()
-        {
-            return View();
-        }
-
-
-        [HttpPost]
-        [Route("/login/login")]
-        public IActionResult LoginProc()
-        {
-            return null;
-        }
-
+        #region 회원가입
         public IActionResult Register(string msg)
         {
             ViewData["msg"] = msg;
@@ -48,13 +38,15 @@ namespace Adminmart.Controllers
             try
             {
                 string password2 = Request.Form["password2"];
-                
-                if(input.Password != password2) 
+
+                if (input.Password != password2)
                 {
                     throw new Exception("password와 password2가 다릅니다.");
                 }
 
+                input.ConvertPassword();
                 input.Register();
+
 
                 //로그인
 
@@ -67,5 +59,49 @@ namespace Adminmart.Controllers
                 return Redirect($"/login/register?msg={HttpUtility.UrlEncode(ex.Message)}");
             }
         }
+
+        #endregion
+
+        #region 로그인
+        [HttpGet]
+        public IActionResult Login(string msg)
+        {
+            ViewData["msg"] = msg;
+            return View();
+        }
+
+        [HttpPost]
+        [Route("/login/login")]
+        public async Task<IActionResult> LoginProc([FromForm] UserModel input)
+        {
+            try
+            {
+                var user = input.GetLoginUser();
+
+                //로그인 작업
+                var identity = new ClaimsIdentity(CookieAuthenticationDefaults.AuthenticationScheme, ClaimTypes.Name, ClaimTypes.Role);
+                identity.AddClaim(new Claim(ClaimTypes.NameIdentifier, user.User_Seq.ToString()));
+                identity.AddClaim(new Claim(ClaimTypes.Name, user.User_Name));
+                identity.AddClaim(new Claim(ClaimTypes.Name, user.Email));
+
+                var principal = new ClaimsPrincipal(identity);
+
+                await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal, new AuthenticationProperties
+                {
+                    IsPersistent = false, 
+                    ExpiresUtc  = DateTime.UtcNow.AddHours(4),
+                    AllowRefresh = true
+                });
+
+                return Redirect("/");
+            }
+            catch (Exception ex)
+            {
+                return Redirect($"/login/register?msg={HttpUtility.UrlEncode(ex.Message)}");
+            }
+        }
+
+        #endregion
+
     }
 }
