@@ -84,6 +84,12 @@ namespace Adminmart.Controllers
                 identity.AddClaim(new Claim(ClaimTypes.Name, user.User_Name));
                 identity.AddClaim(new Claim(ClaimTypes.Name, user.Email));
 
+                if(user.User_Name == "Test") 
+                {
+                    identity.AddClaim(new Claim(ClaimTypes.Role, "ADMIN"));
+                }
+
+
                 var principal = new ClaimsPrincipal(identity);
 
                 await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal, new AuthenticationProperties
