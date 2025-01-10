@@ -51,10 +51,10 @@ namespace Adminmart.Models.Login
 
             string sql = @"
                 SELECT 
-                    @user_seq
-                    ,@user_name
-                    ,@email
-                    ,@password
+                    user_seq
+                    ,user_name
+                    ,email
+                    ,password
                 FROM t_user
                 Where  user_name = @user_name
                 ";
@@ -64,7 +64,7 @@ namespace Adminmart.Models.Login
             {
                 conn.Open();
 
-                user = Dapper.SqlMapper.QuerySingleOrDefault(conn, sql, this);
+                user = Dapper.SqlMapper.QuerySingleOrDefault<UserModel>(conn, sql, this);
             }
             if(user == null) 
             {

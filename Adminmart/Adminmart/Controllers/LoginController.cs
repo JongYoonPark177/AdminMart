@@ -76,6 +76,7 @@ namespace Adminmart.Controllers
         {
             try
             {
+                input.ConvertPassword();
                 var user = input.GetLoginUser();
 
                 //로그인 작업
@@ -103,7 +104,7 @@ namespace Adminmart.Controllers
             }
             catch (Exception ex)
             {
-                return Redirect($"/login/register?msg={HttpUtility.UrlEncode(ex.Message)}");
+                return Redirect($"/login/login?msg={HttpUtility.UrlEncode(ex.Message)}");
             }
         }
 
