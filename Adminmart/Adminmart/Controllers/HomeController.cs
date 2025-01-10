@@ -24,7 +24,6 @@ namespace Adminmart.Controllers
         public IActionResult TicketList()
         {
             string status = "In Progress";
-            
 
             return View(TicketModel.GetList(status));
         }

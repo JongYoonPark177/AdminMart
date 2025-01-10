@@ -6,6 +6,7 @@ using Adminmart.Models;
 using Adminmart.Models.Login;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting.Server;
 using Microsoft.AspNetCore.Mvc;
 using MySqlConnector;
@@ -90,7 +91,6 @@ namespace Adminmart.Controllers
                     identity.AddClaim(new Claim(ClaimTypes.Role, "ADMIN"));
                 }
 
-
                 var principal = new ClaimsPrincipal(identity);
 
                 await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal, new AuthenticationProperties
@@ -109,6 +109,14 @@ namespace Adminmart.Controllers
         }
 
         #endregion
+
+        [Authorize]
+        public async Task<IActionResult> LogOut()
+        {
+            await HttpContext.SignOutAsync();
+
+            return Redirect("/");
+        }
 
     }
 }
