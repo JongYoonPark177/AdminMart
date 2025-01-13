@@ -84,7 +84,7 @@ namespace Adminmart.Controllers
                 var identity = new ClaimsIdentity(CookieAuthenticationDefaults.AuthenticationScheme, ClaimTypes.Name, ClaimTypes.Role);
                 identity.AddClaim(new Claim(ClaimTypes.NameIdentifier, user.User_Seq.ToString()));
                 identity.AddClaim(new Claim(ClaimTypes.Name, user.User_Name));
-                identity.AddClaim(new Claim(ClaimTypes.Name, user.Email));
+                identity.AddClaim(new Claim(ClaimTypes.Email, user.Email));
 
                 if(user.User_Name == "Test") 
                 {
