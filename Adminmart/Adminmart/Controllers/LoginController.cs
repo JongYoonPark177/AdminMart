@@ -86,7 +86,9 @@ namespace Adminmart.Controllers
                 identity.AddClaim(new Claim(ClaimTypes.Name, user.User_Name));
                 identity.AddClaim(new Claim(ClaimTypes.Email, user.Email));
 
-                if(user.User_Name == "Test") 
+                //DB에서 주는게 좋다
+                //예시를 위해 코드로 진행
+                if (user.User_Name == "Test") 
                 {
                     identity.AddClaim(new Claim(ClaimTypes.Role, "ADMIN"));
                 }

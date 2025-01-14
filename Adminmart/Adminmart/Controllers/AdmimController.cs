@@ -23,11 +23,11 @@ namespace Adminmart.Controllers
 
         public IActionResult GetCheck() 
         {
-            if (User.IsInRole("ADMIN")) 
+            if (User.IsInRole("ADMIN"))
             {
                 return Json(new { a = 9 });
             }
-
+     
             return Json(new { a = 1});
         }
 
