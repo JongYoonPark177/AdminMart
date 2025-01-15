@@ -80,14 +80,14 @@ namespace Adminmart.Controllers
                 input.ConvertPassword();
                 var user = input.GetLoginUser();
 
-                //로그인 작업
+                // 로그인 작업
                 var identity = new ClaimsIdentity(CookieAuthenticationDefaults.AuthenticationScheme, ClaimTypes.Name, ClaimTypes.Role);
                 identity.AddClaim(new Claim(ClaimTypes.NameIdentifier, user.User_Seq.ToString()));
                 identity.AddClaim(new Claim(ClaimTypes.Name, user.User_Name));
                 identity.AddClaim(new Claim(ClaimTypes.Email, user.Email));
+                identity.AddClaim(new Claim("LastCheckDateTime", DateTime.UtcNow.ToString("yyyyMMddHHmmss")));
 
-                //DB에서 주는게 좋다
-                //예시를 위해 코드로 진행
+                // DB에서 주는게 좋다 예시를 위해 코드로 진행
                 if (user.User_Name == "Test") 
                 {
                     identity.AddClaim(new Claim(ClaimTypes.Role, "ADMIN"));
