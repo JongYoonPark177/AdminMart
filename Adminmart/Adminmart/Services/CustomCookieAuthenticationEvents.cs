@@ -31,7 +31,6 @@ namespace Adminmart.Services
                     identity.AddClaim(new Claim("LastCheckDateTime", DateTime.UtcNow.ToString("yyyyMMddHHmmss")));
 
                     await context.HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, userPrincipal);
-
                 }
                 else
                 {
@@ -39,7 +38,6 @@ namespace Adminmart.Services
                     await context.HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
                 }
             }
-                               
         }
     }
 }
