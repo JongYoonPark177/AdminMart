@@ -15,7 +15,6 @@ namespace Adminmart.Services
         public override async Task ValidatePrincipal(CookieValidatePrincipalContext context) 
         {
             var userPrincipal = context.Principal;
-
             var checkClaim = userPrincipal.Claims.First(p => p.Type == "LastCheckDateTime");
             var lastCheckDateTime = DateTime.ParseExact(userPrincipal.Claims.First(p => p.Type == "LastCheckDateTime").Value
                                     , "yyyyMMddHHmmss", CultureInfo.InvariantCulture);
