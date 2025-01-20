@@ -20,15 +20,12 @@ namespace Adminmart.Controllers
         public AdmimController()
         {
         }
+        [Authorize(Roles = "ADMIN")]
 
         public IActionResult GetCheck() 
         {
-            if (User.IsInRole("ADMIN"))
-            {
-                return Json(new { a = 9 });
-            }
-     
-            return Json(new { a = 1});
+            return Json(new { a = 9 });
+            //return Json(new { a = 1});
         }
 
         [AllowAnonymous]

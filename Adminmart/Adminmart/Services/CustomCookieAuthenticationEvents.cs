@@ -15,12 +15,13 @@ namespace Adminmart.Services
         public override async Task ValidatePrincipal(CookieValidatePrincipalContext context) 
         {
             var userPrincipal = context.Principal;
+
             var checkClaim = userPrincipal.Claims.First(p => p.Type == "LastCheckDateTime");
             var lastCheckDateTime = DateTime.ParseExact(userPrincipal.Claims.First(p => p.Type == "LastCheckDateTime").Value
                                     , "yyyyMMddHHmmss", CultureInfo.InvariantCulture);
             var intervalMin = 15;
 
-            if(lastCheckDateTime.AddMinutes(15) > DateTime.UtcNow)
+            if(lastCheckDateTime.AddMinutes(intervalMin) > DateTime.UtcNow)
             {
                 //이 사용자가 정상 사용자인지 검증
                 if (1==1)//일단 무조건 정상 
@@ -38,5 +39,7 @@ namespace Adminmart.Services
                 }
             }
         }
+
+
     }
 }

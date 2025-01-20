@@ -1,3 +1,4 @@
+using Adminmart.Services;
 using Microsoft.AspNetCore.Authentication.Cookies;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,8 +12,11 @@ builder.Services.AddAuthentication(option =>
     option.DefaultChallengeScheme = CookieAuthenticationDefaults.AuthenticationScheme;
 }).AddCookie(option =>
 {
-    option.LoginPath = "/login";   
+    option.LoginPath = "/login";
+    option.EventsType = typeof(CustomCookieAuthenticationEvents);
 });
+
+builder.Services.AddScoped<CustomCookieAuthenticationEvents>();
 
 var app = builder.Build();
 
