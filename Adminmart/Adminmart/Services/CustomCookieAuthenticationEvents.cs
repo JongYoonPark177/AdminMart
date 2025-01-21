@@ -21,7 +21,7 @@ namespace Adminmart.Services
                                     , "yyyyMMddHHmmss", CultureInfo.InvariantCulture);
             var intervalMin = 15;
 
-            if(lastCheckDateTime.AddMinutes(intervalMin) > DateTime.UtcNow)
+            if (lastCheckDateTime.AddMinutes(intervalMin) > DateTime.UtcNow)
             {
                 //이 사용자가 정상 사용자인지 검증
                 if (1==1)//일단 무조건 정상 

@@ -3,7 +3,6 @@ using System.Diagnostics;
 using Adminmart.Models;
 using Microsoft.AspNetCore.Hosting.Server;
 using Microsoft.AspNetCore.Mvc;
-using MySqlConnector;
 
 namespace Adminmart.Controllers
 {

@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adminmart", "Adminmart\Adminmart.csproj", "{27273FD7-76E9-42DA-A4A0-16B855B92621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adminmart.Lib", "Adminmart.Lib\Adminmart.Lib.csproj", "{D181BC3A-0246-4D64-A2A6-626152091E8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{27273FD7-76E9-42DA-A4A0-16B855B92621}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27273FD7-76E9-42DA-A4A0-16B855B92621}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27273FD7-76E9-42DA-A4A0-16B855B92621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D181BC3A-0246-4D64-A2A6-626152091E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D181BC3A-0246-4D64-A2A6-626152091E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D181BC3A-0246-4D64-A2A6-626152091E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D181BC3A-0246-4D64-A2A6-626152091E8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,4 +1,5 @@
-﻿using MySqlConnector;
+﻿using Adminmart.Lib.DataBase;
+using MySqlConnector;
 using System.ComponentModel;
 
 namespace Adminmart.Models.Login
@@ -38,11 +39,9 @@ namespace Adminmart.Models.Login
             ";
 
            
-            using (var conn = new MySqlConnection("Server = 127.0.0.1; Port = 3306; Database = adminmart; Uid = root; Pwd = root;"))
+            using (var db = new MySqlDapperHelper())
             {
-                conn.Open();
-
-                return Dapper.SqlMapper.Execute(conn, sql, this);
+                return db.Execute(sql, this);
             }
         }
 
@@ -60,11 +59,9 @@ namespace Adminmart.Models.Login
                 ";
 
             UserModel user;
-            using (var conn = new MySqlConnection("Server = 127.0.0.1; Port = 3306; Database = adminmart; Uid = root; Pwd = root;"))
+            using (var db = new MySqlDapperHelper())
             {
-                conn.Open();
-
-                user = Dapper.SqlMapper.QuerySingleOrDefault<UserModel>(conn, sql, this);
+                user = db.QuerySingle<UserModel>(sql, this);
             }
             if(user == null) 
             {

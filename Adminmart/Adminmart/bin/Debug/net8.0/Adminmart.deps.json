@@ -8,8 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "Adminmart/1.0.0": {
         "dependencies": {
-          "Dapper": "2.0.35",
-          "MySqlConnector": "2.0.0"
+          "Adminmart.Lib": "1.0.0"
         },
         "runtime": {
           "Adminmart.dll": {}
@@ -34,7 +33,19 @@
           }
         }
       },
-      "System.Reflection.Emit.Lightweight/4.7.0": {}
+      "System.Reflection.Emit.Lightweight/4.7.0": {},
+      "Adminmart.Lib/1.0.0": {
+        "dependencies": {
+          "Dapper": "2.0.35",
+          "MySqlConnector": "2.0.0"
+        },
+        "runtime": {
+          "Adminmart.Lib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
     }
   },
   "libraries": {
@@ -63,6 +74,11 @@
       "sha512": "sha512-a4OLB4IITxAXJeV74MDx49Oq2+PsF6Sml54XAFv+2RyWwtDBcabzoxiiJRhdhx+gaohLh4hEGCLQyBozXoQPqA==",
       "path": "system.reflection.emit.lightweight/4.7.0",
       "hashPath": "system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+    },
+    "Adminmart.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
