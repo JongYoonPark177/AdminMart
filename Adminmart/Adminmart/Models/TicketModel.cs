@@ -20,22 +20,36 @@ namespace Adminmart.Models
                                          FROM t_ticket A
                                         WHERE A.status = @status
                                         ";
-                return db.GetQuery<TicketModel>(sql, new { status = status });
+                return db.Query<TicketModel>(sql, new { status = status });
             }
         }
 
         public int Update()
         {
-            string sql = @"
-                        UPDATE t_ticket  
-                            Set
-	                        title = @title
-                        WHERE 
-                            ticket_id = @ticket_id
-                        ";
             using (var db = new MySqlDapperHelper())
             {
-                return db.Execute(sql, this);
+                db.BeginTransaction();  
+                try
+                {
+                    int r = 0;
+                    string sql = @"
+                                UPDATE t_ticket  
+                                    Set
+	                                title = @title
+                                WHERE 
+                                    ticket_id = @ticket_id
+                                ";
+                    r += db.Execute(sql, this);
+
+                    db.Commit();
+
+                    return r;
+                }
+                catch (Exception ex) 
+                {
+                    db.Rollback();
+                    throw ex;
+                }
             }
 
 

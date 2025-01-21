@@ -1,7 +1,6 @@
 using System.Data;
 using System.Diagnostics;
 using Adminmart.Models;
-using Microsoft.AspNetCore.Hosting.Server;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Adminmart.Controllers
@@ -32,6 +31,12 @@ namespace Adminmart.Controllers
             model.Update();
 
             return Redirect("/home/ticketlist");
+        }
+
+        public IActionResult BoardList(string search) 
+        {
+
+            return View(BoardModel.GetList(search));
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
