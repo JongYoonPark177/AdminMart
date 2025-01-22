@@ -10,4 +10,11 @@
     <ProjectReference Include="..\Adminmart.Lib\Adminmart.Lib.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="Views\Home\BoardWrite.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>

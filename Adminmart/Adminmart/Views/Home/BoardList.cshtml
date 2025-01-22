@@ -22,15 +22,15 @@
                             </tr>
                         </thead>
                         <tbody>
-                            @foreach (var item in Model)
-                            {
-                                <tr>
-                                    <td>@item.Idx</td>
-                                    <td><a href="/home/boardView?idx=@item.Idx">@item.Title</a></td>
-                                    <td>@item.Reg_Username</td>
-                                    <td>@item.Reg_Date.ToString("yyyy-MM-dd")</td>
-                                </tr>
-                            }
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.Idx</td>
+                                <td><a href="/home/boardView?idx=@item.Idx">@item.Title</a></td>
+                                <td>@item.Reg_Username</td>
+                                <td>@item.Reg_Date.ToString("yyyy-MM-dd")</td>
+                            </tr>
+                        }
                         </tbody>
                     </table>
                     @if (Model.Count() == 0)

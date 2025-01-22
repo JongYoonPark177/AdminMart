@@ -22,21 +22,21 @@ namespace Adminmart.Models
             using (var db = new MySqlDapperHelper())
             {
                 string sql = @"
-SELECT
-	A.idx
-	,A.title
-    ,A.reg_user
-    ,A.reg_username
-    ,A.reg_date
-    ,A.view_Cnt
-    ,A.status_flag
-FROM
-	t_board A
-WHERE
-	A.title LIKE CONCAT('%', IFNULL(@search, ''), '%')
-ORDER BY
-    A.idx DESC
-";
+                    SELECT
+	                    A.idx
+	                    ,A.title
+                        ,A.reg_user
+                        ,A.reg_username
+                        ,A.reg_date
+                        ,A.view_Cnt
+                        ,A.status_flag
+                    FROM
+	                    t_board A
+                    WHERE
+	                    A.title LIKE CONCAT('%', IFNULL(@search, ''), '%')
+                    ORDER BY
+                        A.idx DESC
+                    ";
                 return db.Query<BoardModel>(sql, new { search = search });
             }
         }
@@ -46,24 +46,24 @@ ORDER BY
             using (var db = new MySqlDapperHelper())
             {
                 string sql = @"
-SELECT
-	A.idx
-	,A.title
-	,A.contents
-    ,A.reg_user
-    ,A.reg_username
-    ,A.reg_date
-    ,A.view_Cnt
-    ,A.status_flag
-FROM
-	t_board A
-WHERE
-	A.idx = @idx
-";
+                            SELECT
+	                            A.idx
+	                            ,A.title
+	                            ,A.contents
+                                ,A.reg_user
+                                ,A.reg_username
+                                ,A.reg_date
+                                ,A.view_Cnt
+                                ,A.status_flag
+                            FROM
+	                            t_board A
+                            WHERE
+	                            A.idx = @idx
+                            ";
                 return db.QuerySingle<BoardModel>(sql, new { idx = idx });
             }
         }
-
+        //체크 메소드
         void CheckContents()
         {
             if (string.IsNullOrWhiteSpace(this.Title))
@@ -86,25 +86,25 @@ WHERE
             CheckContents();
 
             string sql = @"
-INSERT INTO t_board (
-	title
-	,contents
-    ,reg_user
-    ,reg_username
-    ,reg_date
-    ,view_Cnt
-    ,status_flag
-)
-VALUES (
-    @title
-	,@contents
-    ,@reg_user
-    ,@reg_username
-    ,now()
-    ,0
-    ,0
-)
-";
+                        INSERT INTO t_board (
+	                        title
+	                        ,contents
+                            ,reg_user
+                            ,reg_username
+                            ,reg_date
+                            ,view_Cnt
+                            ,status_flag
+                        )
+                        VALUES (
+                            @title
+	                        ,@contents
+                            ,@reg_user
+                            ,@reg_username
+                            ,now()
+                            ,0
+                            ,0
+                        )
+                        ";
             using (var db = new MySqlDapperHelper())
             {
                 return db.Execute(sql, this);
@@ -116,13 +116,13 @@ VALUES (
             CheckContents();
 
             string sql = @"
-UPDATE t_board
-SET
-    title = @title
-	,contents = @contents
-WHERE
-    idx = @idx
-";
+                        UPDATE t_board
+                        SET
+                            title = @title
+	                        ,contents = @contents
+                        WHERE
+                            idx = @idx
+                        ";
             using (var db = new MySqlDapperHelper())
             {
                 return db.Execute(sql, this);
@@ -132,10 +132,10 @@ WHERE
         public int Delete()
         {
             string sql = @"
-DELETE FROM t_board
-WHERE
-    idx = @idx
-";
+                        DELETE FROM t_board
+                        WHERE
+                            idx = @idx
+                        ";
             using (var db = new MySqlDapperHelper())
             {
                 return db.Execute(sql, this);

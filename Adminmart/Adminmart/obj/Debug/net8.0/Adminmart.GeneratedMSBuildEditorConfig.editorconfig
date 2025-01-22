@@ -18,8 +18,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\Adminmart\Adminmart
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/PARKJY/Desktop/PJY/ASP.NET Core MVC/Adminmart/Adminmart/Views/Home/BoardEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb2FyZEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/PARKJY/Desktop/PJY/ASP.NET Core MVC/Adminmart/Adminmart/Views/Home/BoardList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb2FyZExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PARKJY/Desktop/PJY/ASP.NET Core MVC/Adminmart/Adminmart/Views/Home/BoardView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb2FyZFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PARKJY/Desktop/PJY/ASP.NET Core MVC/Adminmart/Adminmart/Views/Home/BoardWrite.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb2FyZFdyaXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/PARKJY/Desktop/PJY/ASP.NET Core MVC/Adminmart/Adminmart/Views/Home/Index.cshtml]
