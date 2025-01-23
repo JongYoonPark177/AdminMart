@@ -19,7 +19,7 @@
                             </tr>
                             <tr>
                                 <th>내용</th>
-                                <td><pre>@Model.Contents</pre></td>
+                                <td>@Html.Raw(@Model.Contents)</td>
                             </tr>
                             <tr>
                                 <th>작성자</th>
@@ -30,16 +30,17 @@
                 </div>
 
                 <div class="text-right">
-                    @if(Model.Reg_User == Convert.ToUInt32(User.FindFirstValue(ClaimTypes.NameIdentifier)))
+                    @if (Model.Reg_User == Convert.ToUInt32(User.FindFirstValue(ClaimTypes.NameIdentifier)))
                     {
-                            <button id="btnU" class="btn btn-sm btn-primary">수정</button>
-                            <button id="btnD" class="btn btn-sm btn-danger">삭제</button>
+                        <button id="btnU" class="btn btn-sm btn-primary">수정</button>
+                        <button id="btnD" class="btn btn-sm btn-danger">삭제</button>
                         <form id="form1" method="post" action="/home/boardEdit">
                             <input type="hidden" name="idx" value="@Model.Idx">
                             <input type="hidden" name="type" value="">
+
                             <script>
                                 $("#btnU").click(function(){
-                                    $("#form1 input[name=type]").val("U");                        
+                                    $("#form1 input[name=type]").val("U");
                                     $("#form1").submit();
                                 });
                                 $("#btnD").click(function(){
@@ -48,7 +49,6 @@
                                 });
                             </script>
                         </form>
-
                     }
                 </div>
             </div>

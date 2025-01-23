@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\views\\home\\boardview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|solutionrelative:adminmart\\views\\home\\boardview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|solutionrelative:adminmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\views\\home\\boardwrite.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|solutionrelative:adminmart\\views\\home\\boardwrite.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\models\\boardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|solutionrelative:adminmart\\models\\boardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\views\\home\\boardwrite.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|solutionrelative:adminmart\\views\\home\\boardwrite.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|solutionrelative:adminmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\views\\home\\boardview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|solutionrelative:adminmart\\views\\home\\boardview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|solutionrelative:adminmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\views\\home\\boardedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,63 +38,76 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Program.cs",
+              "RelativeDocumentMoniker": "Adminmart\\Program.cs",
+              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Program.cs",
+              "RelativeToolTip": "Adminmart\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T07:26:37.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BoardEdit.cshtml",
               "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Views\\Home\\BoardEdit.cshtml",
               "RelativeDocumentMoniker": "Adminmart\\Views\\Home\\BoardEdit.cshtml",
               "ToolTip": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Views\\Home\\BoardEdit.cshtml",
               "RelativeToolTip": "Adminmart\\Views\\Home\\BoardEdit.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-22T05:54:54.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "BoardView.cshtml",
               "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Views\\Home\\BoardView.cshtml",
               "RelativeDocumentMoniker": "Adminmart\\Views\\Home\\BoardView.cshtml",
               "ToolTip": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Views\\Home\\BoardView.cshtml",
               "RelativeToolTip": "Adminmart\\Views\\Home\\BoardView.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-22T05:32:31.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "BoardModel.cs",
               "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Models\\BoardModel.cs",
               "RelativeDocumentMoniker": "Adminmart\\Models\\BoardModel.cs",
               "ToolTip": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Models\\BoardModel.cs",
               "RelativeToolTip": "Adminmart\\Models\\BoardModel.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAIwEEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T05:25:25.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "BoardWrite.cshtml",
               "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Views\\Home\\BoardWrite.cshtml",
               "RelativeDocumentMoniker": "Adminmart\\Views\\Home\\BoardWrite.cshtml",
-              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Views\\Home\\BoardWrite.cshtml",
-              "RelativeToolTip": "Adminmart\\Views\\Home\\BoardWrite.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Views\\Home\\BoardWrite.cshtml*",
+              "RelativeToolTip": "Adminmart\\Views\\Home\\BoardWrite.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-22T05:16:22.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BoardList.cshtml",
               "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Views\\Home\\BoardList.cshtml",
               "RelativeDocumentMoniker": "Adminmart\\Views\\Home\\BoardList.cshtml",
@@ -98,18 +115,17 @@
               "RelativeToolTip": "Adminmart\\Views\\Home\\BoardList.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T05:16:13.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T05:16:13.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Adminmart\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Adminmart\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAAAE8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T05:15:30.716Z",
               "EditorCaption": ""
