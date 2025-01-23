@@ -105,13 +105,12 @@
 </div>
 
 <div>
-    <form id="form1" method="post" action="/home/ticketchange">
-        <input name="ticket_id" type="text" value="@ticket_id" />
-        <input name="title" type="text" value="@title" />
+    <div>
+        <input id="ticket_id" type="text" value="@ticket_id" />
+        <input id="title" type="text" value="@title" />
 
-        <button  type="submit" class="btn btn-sm btn-primary">변경 전송</button>
-        @* <button id="btn1" type="submit" class="btn btn-sm btn-primary">변경 전송</button> *@
-    </form>
+        <button id="btn1"  type="submit" class="btn btn-sm btn-primary">변경 전송</button>
+    </div>
 </div>
 <div>
 
@@ -169,7 +168,6 @@
             axios.post("/home/ticketchange", {
                 "ticket_id": ticket_id,
                 "title": title
-                
             }).then(function (response) {
                 alert(response.data.title);
                 location.reload();
