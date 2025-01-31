@@ -27,4 +27,6 @@ ASP.NET Core MVC(.NET 8.0) 공부 페이지
   <li>로그인</li>
   <li>로그아웃</li>
   <li>티켓리스트</li>
+  <li>게시판</li>
 </ul>
+
