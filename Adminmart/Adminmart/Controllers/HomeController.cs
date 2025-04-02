@@ -28,11 +28,16 @@ namespace Adminmart.Controllers
             return View(TicketModel.GetList(status));
         }
 
-        public IActionResult TicketChange([FromForm]TicketModel model) 
+        public IActionResult TicketChange([FromBody]TicketModel model)
         {
+            if (model == null)
+            {
+                return BadRequest("Invalid data");
+            }
             model.Update();
 
-            return Redirect("/home/ticketlist");
+            //return Redirect("/home/ticketlist");
+            return Json(model);
         }
 
         public IActionResult BoardList(string search) 

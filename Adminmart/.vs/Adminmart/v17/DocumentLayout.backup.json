@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\",
+  "WorkspaceRootPath": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\views\\home\\ticketlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|c:\\users\\parkjy\\desktop\\adminmart\\adminmart\\adminmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|solutionrelative:adminmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|c:\\users\\parkjy\\desktop\\adminmart\\adminmart\\adminmart\\views\\home\\ticketlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|solutionrelative:adminmart\\views\\home\\ticketlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|c:\\users\\parkjy\\desktop\\pjy\\asp.net core mvc\\adminmart\\adminmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|solutionrelative:adminmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|c:\\users\\parkjy\\desktop\\adminmart\\adminmart\\adminmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|solutionrelative:adminmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|c:\\users\\parkjy\\desktop\\adminmart\\adminmart\\adminmart\\models\\ticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|solutionrelative:adminmart\\models\\ticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|c:\\users\\parkjy\\desktop\\adminmart\\adminmart\\adminmart\\controllers\\admimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27273FD7-76E9-42DA-A4A0-16B855B92621}|Adminmart\\Adminmart.csproj|solutionrelative:adminmart\\controllers\\admimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D181BC3A-0246-4D64-A2A6-626152091E8E}|Adminmart.Lib\\Adminmart.Lib.csproj|c:\\users\\parkjy\\desktop\\adminmart\\adminmart\\adminmart.lib\\database\\mysqldapperhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D181BC3A-0246-4D64-A2A6-626152091E8E}|Adminmart.Lib\\Adminmart.Lib.csproj|solutionrelative:adminmart.lib\\database\\mysqldapperhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +34,82 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Adminmart\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Adminmart\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAA/wDQAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "TicketModel.cs",
+              "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\Models\\TicketModel.cs",
+              "RelativeDocumentMoniker": "Adminmart\\Models\\TicketModel.cs",
+              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\Models\\TicketModel.cs",
+              "RelativeToolTip": "Adminmart\\Models\\TicketModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T06:29:58.946Z"
+              "WhenOpened": "2025-04-02T04:44:07.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\Program.cs",
+              "RelativeDocumentMoniker": "Adminmart\\Program.cs",
+              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\Program.cs",
+              "RelativeToolTip": "Adminmart\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:31:38.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdmimController.cs",
+              "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\Controllers\\AdmimController.cs",
+              "RelativeDocumentMoniker": "Adminmart\\Controllers\\AdmimController.cs",
+              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\Controllers\\AdmimController.cs",
+              "RelativeToolTip": "Adminmart\\Controllers\\AdmimController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwCEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T04:55:40.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MySqlDapperHelper.cs",
+              "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart.Lib\\DataBase\\MySqlDapperHelper.cs",
+              "RelativeDocumentMoniker": "Adminmart.Lib\\DataBase\\MySqlDapperHelper.cs",
+              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart.Lib\\DataBase\\MySqlDapperHelper.cs",
+              "RelativeToolTip": "Adminmart.Lib\\DataBase\\MySqlDapperHelper.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T04:35:14.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Adminmart\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Adminmart\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:29:58.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TicketList.cshtml",
-              "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Views\\Home\\TicketList.cshtml",
+              "DocumentMoniker": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\Views\\Home\\TicketList.cshtml",
               "RelativeDocumentMoniker": "Adminmart\\Views\\Home\\TicketList.cshtml",
-              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Views\\Home\\TicketList.cshtml",
+              "ToolTip": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\Views\\Home\\TicketList.cshtml",
               "RelativeToolTip": "Adminmart\\Views\\Home\\TicketList.cshtml",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAwwLgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-23T06:24:28.489Z",
               "EditorCaption": ""

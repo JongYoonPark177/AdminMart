@@ -16,6 +16,7 @@ namespace Adminmart.Lib.DataBase
         public MySqlDapperHelper()
         {
             _conn = new MySqlConnection("Server = 127.0.0.1; Port = 3306; Database = adminmart; Uid = root; Pwd = root;");
+            _conn.Open();
         }
 
         public void BeginTransaction()

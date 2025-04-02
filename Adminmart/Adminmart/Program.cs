@@ -3,8 +3,10 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-builder.Services.AddControllersWithViews();
+//System.Text.Json 쓰지 않고 -> Newtonsoft.JsonConverter
+builder.Services.AddControllersWithViews().AddNewtonsoftJson(opotions => {
+    opotions.SerializerSettings.ContractResolver = null;
+});
 builder.Services.AddAuthentication(option => 
 {
     option.DefaultSignInScheme = CookieAuthenticationDefaults.AuthenticationScheme;

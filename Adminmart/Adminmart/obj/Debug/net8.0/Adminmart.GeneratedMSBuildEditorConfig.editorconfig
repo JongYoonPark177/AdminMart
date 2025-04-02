@@ -9,67 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Adminmart
 build_property.RootNamespace = Adminmart
-build_property.ProjectDir = C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\Adminmart\Adminmart\
+build_property.ProjectDir = C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\Adminmart\Adminmart
+build_property.MSBuildProjectDirectory = C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/PARKJY/Desktop/PJY/ASP.NET Core MVC/Adminmart/Adminmart/Views/Home/BoardEdit.cshtml]
+[C:/Users/PARKJY/Desktop/AdminMart/Adminmart/Adminmart/Views/Home/BoardEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb2FyZEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PARKJY/Desktop/PJY/ASP.NET Core MVC/Adminmart/Adminmart/Views/Home/BoardList.cshtml]
+[C:/Users/PARKJY/Desktop/AdminMart/Adminmart/Adminmart/Views/Home/BoardList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb2FyZExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PARKJY/Desktop/PJY/ASP.NET Core MVC/Adminmart/Adminmart/Views/Home/BoardView.cshtml]
+[C:/Users/PARKJY/Desktop/AdminMart/Adminmart/Adminmart/Views/Home/BoardView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb2FyZFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PARKJY/Desktop/PJY/ASP.NET Core MVC/Adminmart/Adminmart/Views/Home/BoardWrite.cshtml]
+[C:/Users/PARKJY/Desktop/AdminMart/Adminmart/Adminmart/Views/Home/BoardWrite.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb2FyZFdyaXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PARKJY/Desktop/PJY/ASP.NET Core MVC/Adminmart/Adminmart/Views/Home/Index.cshtml]
+[C:/Users/PARKJY/Desktop/AdminMart/Adminmart/Adminmart/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PARKJY/Desktop/PJY/ASP.NET Core MVC/Adminmart/Adminmart/Views/Home/TicketList.cshtml]
+[C:/Users/PARKJY/Desktop/AdminMart/Adminmart/Adminmart/Views/Home/TicketList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaWNrZXRMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PARKJY/Desktop/PJY/ASP.NET Core MVC/Adminmart/Adminmart/Views/Login/Login.cshtml]
+[C:/Users/PARKJY/Desktop/AdminMart/Adminmart/Adminmart/Views/Login/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PARKJY/Desktop/PJY/ASP.NET Core MVC/Adminmart/Adminmart/Views/Login/Register.cshtml]
+[C:/Users/PARKJY/Desktop/AdminMart/Adminmart/Adminmart/Views/Login/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PARKJY/Desktop/PJY/ASP.NET Core MVC/Adminmart/Adminmart/Views/Shared/Components/LeftMenu/Default.cshtml]
+[C:/Users/PARKJY/Desktop/AdminMart/Adminmart/Adminmart/Views/Shared/Components/LeftMenu/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTGVmdE1lbnVcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PARKJY/Desktop/PJY/ASP.NET Core MVC/Adminmart/Adminmart/Views/Shared/Error.cshtml]
+[C:/Users/PARKJY/Desktop/AdminMart/Adminmart/Adminmart/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PARKJY/Desktop/PJY/ASP.NET Core MVC/Adminmart/Adminmart/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/PARKJY/Desktop/AdminMart/Adminmart/Adminmart/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PARKJY/Desktop/PJY/ASP.NET Core MVC/Adminmart/Adminmart/Views/_ViewImports.cshtml]
+[C:/Users/PARKJY/Desktop/AdminMart/Adminmart/Adminmart/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PARKJY/Desktop/PJY/ASP.NET Core MVC/Adminmart/Adminmart/Views/_ViewStart.cshtml]
+[C:/Users/PARKJY/Desktop/AdminMart/Adminmart/Adminmart/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PARKJY/Desktop/PJY/ASP.NET Core MVC/Adminmart/Adminmart/Views/Shared/_Layout.cshtml]
+[C:/Users/PARKJY/Desktop/AdminMart/Adminmart/Adminmart/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-s0o5wda43k

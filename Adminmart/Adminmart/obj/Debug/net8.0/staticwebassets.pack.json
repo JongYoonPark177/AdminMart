@@ -1,1343 +1,1343 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Adminmart.bundle.scp.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Adminmart.bundle.scp.css",
       "PackagePath": "staticwebassets\\Adminmart.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\img\\login\\3.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\img\\login\\3.jpg",
       "PackagePath": "staticwebassets\\img\\login\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\img\\login\\icon.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\img\\login\\icon.png",
       "PackagePath": "staticwebassets\\img\\login\\icon.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\alert.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\alert.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\alert\\alert.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\alert2.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\alert2.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\alert\\alert2.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\alert3.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\alert3.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\alert\\alert3.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\alert4.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\alert4.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\alert\\alert4.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\alert5.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\alert5.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\alert\\alert5.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\alert6.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\alert6.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\alert\\alert6.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\alert7.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\alert7.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\alert\\alert7.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\model.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\model.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\alert\\model.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\model2.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\model2.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\alert\\model2.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\model3.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\alert\\model3.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\alert\\model3.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\angular-templates.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\angular-templates.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\angular-templates.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\Thumbs.db",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\Thumbs.db",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\background\\Thumbs.db"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\active-bg.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\active-bg.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\background\\active-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\active-bg.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\active-bg.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\background\\active-bg.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\beauty.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\beauty.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\background\\beauty.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\error-bg.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\error-bg.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\background\\error-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\img5.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\img5.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\background\\img5.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\img5.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\img5.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\background\\img5.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\login-register.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\login-register.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\background\\login-register.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\megamenubg.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\megamenubg.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\background\\megamenubg.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\nyan-cat.gif",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\nyan-cat.gif",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\background\\nyan-cat.gif"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\profile-bg.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\profile-bg.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\background\\profile-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\sidebarbg.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\sidebarbg.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\background\\sidebarbg.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\socialbg.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\socialbg.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\background\\socialbg.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\user-bg.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\user-bg.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\background\\user-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\user-info.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\user-info.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\background\\user-info.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\weatherbg.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\background\\weatherbg.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\background\\weatherbg.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\1.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\1.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\big\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\3.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\3.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\big\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\5.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\5.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\big\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\Thumbs.db",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\Thumbs.db",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\big\\Thumbs.db"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\auth-bg.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\auth-bg.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\big\\auth-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\auth-bg2.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\auth-bg2.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\big\\auth-bg2.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\d2.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\d2.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\big\\d2.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\icon.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\icon.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\big\\icon.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\img1.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\img1.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\big\\img1.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\img2.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\img2.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\big\\img2.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\img3.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\img3.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\big\\img3.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\img4.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\img4.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\big\\img4.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\img5.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\img5.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\big\\img5.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\img6.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\big\\img6.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\big\\img6.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\bootstrap-templates.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\bootstrap-templates.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\bootstrap-templates.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\browser\\chrome-logo.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\browser\\chrome-logo.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\browser\\chrome-logo.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\browser\\edge-logo.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\browser\\edge-logo.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\browser\\edge-logo.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\browser\\firefox-logo.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\browser\\firefox-logo.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\browser\\firefox-logo.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\browser\\internet-logo.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\browser\\internet-logo.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\browser\\internet-logo.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\browser\\netscape-logo.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\browser\\netscape-logo.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\browser\\netscape-logo.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\browser\\opera-logo.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\browser\\opera-logo.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\browser\\opera-logo.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\browser\\photoshop.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\browser\\photoshop.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\browser\\photoshop.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\browser\\safari-logo.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\browser\\safari-logo.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\browser\\safari-logo.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\browser\\sketch.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\browser\\sketch.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\browser\\sketch.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\custom-select.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\custom-select.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\custom-select.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\docs\\gulp.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\docs\\gulp.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\docs\\gulp.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\favicon.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\favicon.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\gallery\\chair.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\gallery\\chair.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\gallery\\chair.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\gallery\\chair2.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\gallery\\chair2.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\gallery\\chair2.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\gallery\\chair3.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\gallery\\chair3.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\gallery\\chair3.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\gallery\\chair4.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\gallery\\chair4.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\gallery\\chair4.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\img1.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\img1.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\img1.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\img2.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\img2.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\img2.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\img3.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\img3.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\img3.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\banne-img.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\banne-img.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\landingpage\\banne-img.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\banner-bg.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\banner-bg.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\landingpage\\banner-bg.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\brand-logos.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\brand-logos.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\landingpage\\brand-logos.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\db.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\db.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\landingpage\\db.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\f1.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\f1.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\landingpage\\f1.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\f2.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\f2.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\landingpage\\f2.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\f3.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\f3.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\landingpage\\f3.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\favicon.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\favicon.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\landingpage\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\icon-sprite.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\icon-sprite.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\landingpage\\icon-sprite.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\img2.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\img2.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\landingpage\\img2.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\img3.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\img3.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\landingpage\\img3.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\logo.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\logo.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\landingpage\\logo.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\logos.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\logos.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\landingpage\\logos.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\right-img.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\right-img.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\landingpage\\right-img.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\section-bg.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\section-bg.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\landingpage\\section-bg.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\section-img.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\landingpage\\section-img.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\landingpage\\section-img.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\logo-icon.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\logo-icon.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\logo-icon.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\logo-light-text.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\logo-light-text.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\logo-light-text.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\logo-text.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\logo-text.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\logo-text.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\chair.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\chair.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\product\\chair.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\chair2.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\chair2.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\product\\chair2.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\chair3.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\chair3.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\product\\chair3.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\chair4.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\chair4.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\product\\chair4.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\ipad.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\ipad.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\product\\ipad.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\iphone.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\iphone.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\product\\iphone.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\iwatch.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\iwatch.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\product\\iwatch.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\p1.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\p1.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\product\\p1.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\p2.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\p2.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\product\\p2.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\p3.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\p3.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\product\\p3.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\p4.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\product\\p4.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\product\\p4.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\rating\\cancel-off.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\rating\\cancel-off.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\rating\\cancel-off.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\rating\\cancel-on.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\rating\\cancel-on.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\rating\\cancel-on.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\rating\\heart.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\rating\\heart.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\rating\\heart.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\rating\\like.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\rating\\like.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\rating\\like.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\rating\\star-half-mono.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\rating\\star-half-mono.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\rating\\star-half-mono.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\rating\\star-half.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\rating\\star-half.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\rating\\star-half.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\rating\\star-off.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\rating\\star-off.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\rating\\star-off.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\rating\\star-on.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\rating\\star-on.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\rating\\star-on.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\react-templates.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\react-templates.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\react-templates.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\tooltip\\Euclid.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\tooltip\\Euclid.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\tooltip\\Euclid.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\tooltip\\shape1.svg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\tooltip\\shape1.svg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\tooltip\\shape1.svg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\tooltip\\shape2.svg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\tooltip\\shape2.svg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\tooltip\\shape2.svg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\tooltip\\shape3.svg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\tooltip\\shape3.svg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\tooltip\\shape3.svg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\tooltip\\tooltip1.svg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\tooltip\\tooltip1.svg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\tooltip\\tooltip1.svg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\tooltip\\tooltip2.svg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\tooltip\\tooltip2.svg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\tooltip\\tooltip2.svg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\tooltip\\tooltip3.svg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\tooltip\\tooltip3.svg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\tooltip\\tooltip3.svg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\1-old.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\1-old.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\1-old.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\1.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\1.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\1.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\1.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\1.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\2.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\2.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\2.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\2.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\2.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\3.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\3.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\3.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\3.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\3.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\4.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\4.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\5.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\5.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\6.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\6.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\7.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\7.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\8.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\8.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\agent.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\agent.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\agent.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\agent2.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\agent2.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\agent2.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\d1.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\d1.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\d1.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\d2.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\d2.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\d2.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\d3.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\d3.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\d3.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\d4.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\d4.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\d4.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\d5.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\d5.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\d5.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\profile-pic-2.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\profile-pic-2.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\profile-pic-2.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\profile-pic.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\profile-pic.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\profile-pic.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\profile.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\profile.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\profile.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\widget-table-pic1.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\widget-table-pic1.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\widget-table-pic1.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\widget-table-pic2.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\widget-table-pic2.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\widget-table-pic2.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\widget-table-pic3.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\widget-table-pic3.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\widget-table-pic3.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\widget-table-pic4.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\users\\widget-table-pic4.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\users\\widget-table-pic4.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\widgets\\1.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\widgets\\1.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\widgets\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\widgets\\2.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\widgets\\2.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\widgets\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\widgets\\3.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\widgets\\3.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\widgets\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\widgets\\widget-carousel-2.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\widgets\\widget-carousel-2.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\widgets\\widget-carousel-2.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\widgets\\widget-carousel.jpg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\assets\\images\\widgets\\widget-carousel.jpg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\assets\\images\\widgets\\widget-carousel.jpg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Bold.eot",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Bold.eot",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Bold.eot"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Bold.otf",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Bold.otf",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Bold.otf"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Bold.svg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Bold.svg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Bold.svg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Bold.ttf",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Bold.ttf",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Bold.woff",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Bold.woff",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Bold.woff"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Heavy.eot",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Heavy.eot",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Heavy.eot"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Heavy.otf",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Heavy.otf",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Heavy.otf"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Heavy.svg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Heavy.svg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Heavy.svg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Heavy.ttf",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Heavy.ttf",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Heavy.ttf"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Heavy.woff",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Heavy.woff",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Heavy.woff"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Medium.eot",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Medium.eot",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Medium.eot"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Medium.otf",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Medium.otf",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Medium.otf"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Medium.svg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Medium.svg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Medium.svg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Medium.ttf",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Medium.ttf",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Medium.woff",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Medium.woff",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Medium.woff"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Regular.eot",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Regular.eot",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Regular.eot"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Regular.otf",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Regular.otf",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Regular.otf"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Regular.svg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Regular.svg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Regular.svg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Regular.ttf",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Regular.ttf",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Regular.ttf"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Regular.woff",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Regular.woff",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\Gilmer-Regular.woff"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Book.eot",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Book.eot",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Book.eot"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Book.otf",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Book.otf",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Book.otf"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Book.svg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Book.svg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Book.svg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Book.ttf",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Book.ttf",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Book.ttf"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Book.woff",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Book.woff",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Book.woff"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Medium.eot",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Medium.eot",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Medium.eot"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Medium.otf",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Medium.otf",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Medium.otf"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Medium.svg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Medium.svg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Medium.svg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Medium.ttf",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Medium.ttf",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Medium.woff",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Medium.woff",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Medium.woff"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Regular.eot",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Regular.eot",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Regular.eot"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Regular.otf",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Regular.otf",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Regular.otf"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Regular.svg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Regular.svg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Regular.svg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Regular.ttf",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Regular.ttf",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Regular.ttf"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Regular.woff",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Regular.woff",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\fonts\\TofinoPersonal-Regular.woff"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fa-brands.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fa-brands.css",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fa-brands.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fa-brands.min.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fa-brands.min.css",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fa-brands.min.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fa-regular.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fa-regular.css",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fa-regular.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fa-regular.min.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fa-regular.min.css",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fa-regular.min.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fa-solid.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fa-solid.css",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fa-solid.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fa-solid.min.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fa-solid.min.css",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fa-solid.min.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fontawesome-all.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fontawesome-all.css",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fontawesome-all.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fontawesome-all.min.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fontawesome-all.min.css",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fontawesome-all.min.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fontawesome.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fontawesome.css",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fontawesome.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fontawesome.min.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fontawesome.min.css",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\css\\fontawesome.min.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_animated.less",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_animated.less",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_animated.less"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_bordered-pulled.less",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_bordered-pulled.less",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_bordered-pulled.less"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_core.less",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_core.less",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_core.less"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_fixed-width.less",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_fixed-width.less",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_fixed-width.less"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_icons.less",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_icons.less",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_icons.less"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_larger.less",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_larger.less",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_larger.less"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_list.less",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_list.less",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_list.less"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_mixins.less",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_mixins.less",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_mixins.less"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_rotated-flipped.less",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_rotated-flipped.less",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_rotated-flipped.less"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_screen-reader.less",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_screen-reader.less",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_screen-reader.less"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_stacked.less",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_stacked.less",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_stacked.less"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_variables.less",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_variables.less",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\_variables.less"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\fa-brands.less",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\fa-brands.less",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\fa-brands.less"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\fa-regular.less",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\fa-regular.less",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\fa-regular.less"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\fa-solid.less",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\fa-solid.less",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\fa-solid.less"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\fontawesome.less",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\fontawesome.less",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\less\\fontawesome.less"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_animated.scss",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_animated.scss",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_animated.scss"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_bordered-pulled.scss",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_bordered-pulled.scss",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_bordered-pulled.scss"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_core.scss",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_core.scss",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_core.scss"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_fixed-width.scss",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_fixed-width.scss",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_fixed-width.scss"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_icons.scss",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_icons.scss",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_icons.scss"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_larger.scss",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_larger.scss",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_larger.scss"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_list.scss",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_list.scss",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_list.scss"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_rotated-flipped.scss",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_rotated-flipped.scss",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_rotated-flipped.scss"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_screen-reader.scss",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_screen-reader.scss",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_screen-reader.scss"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_stacked.scss",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_stacked.scss",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_stacked.scss"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_variables.scss",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\fa-brands.scss",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\fa-brands.scss",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\fa-brands.scss"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\fa-regular.scss",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\fa-regular.scss",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\fa-regular.scss"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\fa-solid.scss",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\fa-solid.scss",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\fa-solid.scss"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\fontawesome.scss",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\fontawesome.scss",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\scss\\fontawesome.scss"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\css\\simple-line-icons.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\css\\simple-line-icons.css",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\css\\simple-line-icons.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.eot",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.eot",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.eot"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.svg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.svg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.svg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.ttf",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.ttf",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.ttf"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff2",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff2",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons.woff2"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\less\\simple-line-icons.less",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\less\\simple-line-icons.less",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\less\\simple-line-icons.less"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\scss\\simple-line-icons.scss",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\scss\\simple-line-icons.scss",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\simple-line-icons\\scss\\simple-line-icons.scss"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\fonts\\themify.eot",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\fonts\\themify.eot",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\fonts\\themify.eot"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\fonts\\themify.svg",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\fonts\\themify.svg",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\fonts\\themify.svg"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\fonts\\themify.ttf",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\fonts\\themify.ttf",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\fonts\\themify.ttf"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\fonts\\themify.woff",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\fonts\\themify.woff",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\fonts\\themify.woff"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\ie7\\ie7.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\ie7\\ie7.css",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\ie7\\ie7.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\ie7\\ie7.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\ie7\\ie7.js",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\ie7\\ie7.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\themify-icons.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\themify-icons.css",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\themify-icons.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\themify-icons.less",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\themify-icons.less",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\icons\\themify-icons\\themify-icons.less"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\pandalocker.min.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\pandalocker.min.css",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\pandalocker.min.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\style.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\style.css",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\style.min.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\css\\style.min.css",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\css\\style.min.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\img\\button-loader-f2f2f2.gif",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\img\\button-loader-f2f2f2.gif",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\img\\button-loader-f2f2f2.gif"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\img\\lock-icon.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\img\\lock-icon.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\img\\lock-icon.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\img\\social-icons.png",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\img\\social-icons.png",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\img\\social-icons.png"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\js\\app-style-switcher.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\js\\app-style-switcher.js",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\js\\app-style-switcher.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\js\\app-style-switcher.min.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\js\\app-style-switcher.min.js",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\js\\app-style-switcher.min.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\js\\custom.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\js\\custom.js",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\js\\custom.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\js\\custom.min.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\js\\custom.min.js",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\js\\custom.min.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\js\\feather.min.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\js\\feather.min.js",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\js\\feather.min.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\js\\jquery.ui.highlight.min.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\js\\jquery.ui.highlight.min.js",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\js\\jquery.ui.highlight.min.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\js\\pandalocker.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\js\\pandalocker.js",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\js\\pandalocker.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\js\\sidebarmenu.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\js\\sidebarmenu.js",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\js\\sidebarmenu.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\js\\sidebarmenu.min.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\adminmart-lite\\dist\\js\\sidebarmenu.min.js",
       "PackagePath": "staticwebassets\\lib\\adminmart-lite\\dist\\js\\sidebarmenu.min.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\perfect-scrollbar\\dist\\css\\perfect-scrollbar.min.css",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\perfect-scrollbar\\dist\\css\\perfect-scrollbar.min.css",
       "PackagePath": "staticwebassets\\lib\\perfect-scrollbar\\dist\\css\\perfect-scrollbar.min.css"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\perfect-scrollbar\\dist\\js\\perfect-scrollbar.jquery.min.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\perfect-scrollbar\\dist\\js\\perfect-scrollbar.jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\perfect-scrollbar\\dist\\js\\perfect-scrollbar.jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\perfect-scrollbar\\dist\\js\\perfect-scrollbar.min.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\perfect-scrollbar\\dist\\js\\perfect-scrollbar.min.js",
       "PackagePath": "staticwebassets\\lib\\perfect-scrollbar\\dist\\js\\perfect-scrollbar.min.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\perfect-scrollbar\\dist\\perfect-scrollbar.common.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\perfect-scrollbar\\dist\\perfect-scrollbar.common.js",
       "PackagePath": "staticwebassets\\lib\\perfect-scrollbar\\dist\\perfect-scrollbar.common.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\perfect-scrollbar\\dist\\perfect-scrollbar.esm.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\perfect-scrollbar\\dist\\perfect-scrollbar.esm.js",
       "PackagePath": "staticwebassets\\lib\\perfect-scrollbar\\dist\\perfect-scrollbar.esm.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\perfect-scrollbar\\dist\\perfect-scrollbar.jquery.min.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\perfect-scrollbar\\dist\\perfect-scrollbar.jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\perfect-scrollbar\\dist\\perfect-scrollbar.jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\perfect-scrollbar\\dist\\perfect-scrollbar.min.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\perfect-scrollbar\\dist\\perfect-scrollbar.min.js",
       "PackagePath": "staticwebassets\\lib\\perfect-scrollbar\\dist\\perfect-scrollbar.min.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\signalr\\signalr.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\signalr\\signalr.js",
       "PackagePath": "staticwebassets\\lib\\signalr\\signalr.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\signalr\\signalr.js.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\signalr\\signalr.js.map",
       "PackagePath": "staticwebassets\\lib\\signalr\\signalr.js.map"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\signalr\\signalr.min.js",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\signalr\\signalr.min.js",
       "PackagePath": "staticwebassets\\lib\\signalr\\signalr.min.js"
     },
     {
-      "Id": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\wwwroot\\lib\\signalr\\signalr.min.js.map",
+      "Id": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\wwwroot\\lib\\signalr\\signalr.min.js.map",
       "PackagePath": "staticwebassets\\lib\\signalr\\signalr.min.js.map"
     },
     {

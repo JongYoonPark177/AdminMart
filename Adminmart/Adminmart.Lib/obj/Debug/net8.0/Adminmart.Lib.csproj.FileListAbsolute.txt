@@ -11,3 +11,16 @@ C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\Adminmart\Adminmart.Lib\obj\Debug\n
 C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\Adminmart\Adminmart.Lib\obj\Debug\net8.0\refint\Adminmart.Lib.dll
 C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\Adminmart\Adminmart.Lib\obj\Debug\net8.0\Adminmart.Lib.pdb
 C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\Adminmart\Adminmart.Lib\obj\Debug\net8.0\ref\Adminmart.Lib.dll
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart.Lib\bin\Debug\net8.0\Adminmart.Lib.deps.json
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart.Lib\bin\Debug\net8.0\Adminmart.Lib.dll
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart.Lib\bin\Debug\net8.0\Adminmart.Lib.pdb
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart.Lib\obj\Debug\net8.0\Adminmart.Lib.csproj.AssemblyReference.cache
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart.Lib\obj\Debug\net8.0\Adminmart.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart.Lib\obj\Debug\net8.0\Adminmart.Lib.AssemblyInfoInputs.cache
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart.Lib\obj\Debug\net8.0\Adminmart.Lib.AssemblyInfo.cs
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart.Lib\obj\Debug\net8.0\Adminmart.Lib.csproj.CoreCompileInputs.cache
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart.Lib\obj\Debug\net8.0\Adminmart.Lib.sourcelink.json
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart.Lib\obj\Debug\net8.0\Adminmart.Lib.dll
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart.Lib\obj\Debug\net8.0\refint\Adminmart.Lib.dll
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart.Lib\obj\Debug\net8.0\Adminmart.Lib.pdb
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart.Lib\obj\Debug\net8.0\ref\Adminmart.Lib.dll

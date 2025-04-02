@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Adminmart.csproj": {}
+    "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\Adminmart.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart.Lib\\Adminmart.Lib.csproj": {
+    "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart.Lib\\Adminmart.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart.Lib\\Adminmart.Lib.csproj",
+        "projectUniqueName": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart.Lib\\Adminmart.Lib.csproj",
         "projectName": "Adminmart.Lib",
-        "projectPath": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart.Lib\\Adminmart.Lib.csproj",
+        "projectPath": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart.Lib\\Adminmart.Lib.csproj",
         "packagesPath": "C:\\Users\\PARKJY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart.Lib\\obj\\",
+        "outputPath": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart.Lib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,6 +53,10 @@
               "target": "Package",
               "version": "[2.0.35, )"
             },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
             "MySqlConnector": {
               "target": "Package",
               "version": "[2.0.0, )"
@@ -78,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Adminmart.csproj": {
+    "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\Adminmart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Adminmart.csproj",
+        "projectUniqueName": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\Adminmart.csproj",
         "projectName": "Adminmart",
-        "projectPath": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\Adminmart.csproj",
+        "projectPath": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\Adminmart.csproj",
         "packagesPath": "C:\\Users\\PARKJY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart\\obj\\",
+        "outputPath": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -106,8 +110,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart.Lib\\Adminmart.Lib.csproj": {
-                "projectPath": "C:\\Users\\PARKJY\\Desktop\\PJY\\ASP.NET Core MVC\\Adminmart\\Adminmart.Lib\\Adminmart.Lib.csproj"
+              "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart.Lib\\Adminmart.Lib.csproj": {
+                "projectPath": "C:\\Users\\PARKJY\\Desktop\\AdminMart\\Adminmart\\Adminmart.Lib\\Adminmart.Lib.csproj"
               }
             }
           }
@@ -126,6 +130,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -35,3 +35,44 @@ C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\Adminmart\Adminmart\obj\Debug\net8.
 C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\Adminmart\Adminmart\bin\Debug\net8.0\Dapper.dll
 C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\Adminmart\Adminmart\bin\Debug\net8.0\Adminmart.Lib.dll
 C:\Users\PARKJY\Desktop\PJY\ASP.NET Core MVC\Adminmart\Adminmart\bin\Debug\net8.0\Adminmart.Lib.pdb
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\bin\Debug\net8.0\appsettings.json
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\bin\Debug\net8.0\Adminmart.staticwebassets.runtime.json
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\bin\Debug\net8.0\Adminmart.exe
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\bin\Debug\net8.0\Adminmart.deps.json
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\bin\Debug\net8.0\Adminmart.runtimeconfig.json
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\bin\Debug\net8.0\Adminmart.dll
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\bin\Debug\net8.0\Adminmart.pdb
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\bin\Debug\net8.0\Dapper.dll
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\bin\Debug\net8.0\Adminmart.Lib.dll
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\bin\Debug\net8.0\Adminmart.Lib.pdb
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\Adminmart.csproj.AssemblyReference.cache
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\Adminmart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\Adminmart.AssemblyInfoInputs.cache
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\Adminmart.AssemblyInfo.cs
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\Adminmart.csproj.CoreCompileInputs.cache
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\Adminmart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\Adminmart.RazorAssemblyInfo.cache
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\Adminmart.RazorAssemblyInfo.cs
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\Adminmart.sourcelink.json
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\staticwebassets\msbuild.Adminmart.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\staticwebassets\msbuild.build.Adminmart.props
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Adminmart.props
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Adminmart.props
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\scopedcss\bundle\Adminmart.styles.css
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\scopedcss\projectbundle\Adminmart.bundle.scp.css
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\Adminmart.csproj.Up2Date
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\Adminmart.dll
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\refint\Adminmart.dll
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\Adminmart.pdb
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\Adminmart.genruntimeconfig.cache
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\obj\Debug\net8.0\ref\Adminmart.dll
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\PARKJY\Desktop\AdminMart\Adminmart\Adminmart\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
